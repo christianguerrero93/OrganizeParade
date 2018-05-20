@@ -1,1 +1,3 @@
 # OrganizeParade
+
+You have been asked to organize the Fourth of July parade, which will consist of bands and floats in a single line. Last year, adjacent bands tried to outplay each other. To avoid this problem, the sponsors have asked you never to place one band immediately after another. In how many ways can you organize a parade of length n ? Assume that you have at least n marching bands and n floats from which to choose. When counting the number of ways to organize the parade, assume that the parades band-float and float-band , for example, are different parades and count as two ways. The parade can end with either a float or a band.
